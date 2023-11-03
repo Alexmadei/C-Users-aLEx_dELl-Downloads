@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bevy Labs//Bevy//
+METHOD:REQUEST
+BEGIN:VEVENT
+SUMMARY:Adobe Developers Live: Content and Commerce
+DTSTART;VALUE=DATE-TIME:20231106T150000Z
+DTEND;VALUE=DATE-TIME:20231106T210000Z
+DTSTAMP;VALUE=DATE-TIME:20231103T053234Z
+UID:magentoconference/31/Event/Bevy
+SEQUENCE:1698989554
+ATTENDEE;CN="alex leandro";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRU
+ E:MAILTO:alex_benicio@hotmail.com
+DESCRIPTION:Adobe Developers Live brings together developers \nwith divers
+ e backgrounds and a singular purpose – \nto create incredible end-to-end
+  composable experiences \nin Adobe Experience Manager and Commerce.\n\nVir
+ tual event URL: https://developerevents.adobe.com/j/ad83vbnj6zd5m/11095d0e
+ -377c-4ee5-acab-db087f46f6cc/
+LOCATION:https://developerevents.adobe.com/j/ad83vbnj6zd5m/11095d0e-377c-4
+ ee5-acab-db087f46f6cc/
+PRIORITY:5
+STATUS:CONFIRMED
+URL:https://developerevents.adobe.com/j/ad83vbnj6zd5m/11095d0e-377c-4ee5-a
+ cab-db087f46f6cc/
+END:VEVENT
+END:VCALENDAR
